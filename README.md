@@ -1,4 +1,4 @@
-# Sparta_UI_Testing
+# UI_Testing_Capybara
 
 
 ## Introduction 
